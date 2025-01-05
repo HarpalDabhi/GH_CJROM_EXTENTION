@@ -2,5 +2,20 @@
     "manifest_version": 3,
     "name" : "Gopa - Extention",
     "version" : "0.0.1",
-    "description" : "Dabhi Harpal - First Extention"
+    "description" : "Dabhi Harpal - First Extention",
+    "author" : "harpaldabhi538@gmail.com",
+
+    "icons": {
+        "16": "images/mango.png",
+        "48": "images/mango.png",
+        "128": "images/mango.png"
+    },
+    "action":{
+        "default_popup": "popup/popup.html",
+        "default_icon": {
+            "16": "images/mango.png",
+            "48": "images/mango.png",
+            "128": "images/mango.png"
+        }
+    }
 }
