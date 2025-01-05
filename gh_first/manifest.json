@@ -17,5 +17,6 @@
             "48": "images/mango.png",
             "128": "images/mango.png"
         }
-    }
+    },
+    "options_page" : "options.html"
 }
